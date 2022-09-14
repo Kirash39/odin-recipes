@@ -1,0 +1,19 @@
+img {
+   width: 25%;
+    height: auto;
+}
+
+#Title {
+    font-family: Verdana, sans-serif,"Times New Roman";
+    font-size: 32px;
+    text-align: left;
+}
+
+.container {
+    font-family: Verdana, sans-serif, "Times New Roman";
+
+}
+
+body {
+    background-color: hsla(29, 77%, 66%, 0.666);
+}
